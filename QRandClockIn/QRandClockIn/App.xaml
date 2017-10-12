@@ -1,0 +1,134 @@
+﻿<Application x:Class="QRandClockIn.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+
+        <!--Buttons-->
+        <Style x:Key="GlassButtonStyle" TargetType="{x:Type Button}">
+            <Setter Property="Foreground" Value="WhiteSmoke" />
+            <Setter Property="Cursor" Value="Hand" />
+            <Setter Property="FontFamily" Value="Times New Roman" />
+            <Setter Property="FontWeight" Value="ExtraBold"/>
+            <Setter Property="FontSize" Value="12" />
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border x:Name="ButtonBorder" CornerRadius="15" BorderThickness="2" Background="#AA000000" BorderBrush="#99FFFFFF" RenderTransformOrigin="0.5,0.5">
+
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="1*"/>
+                                    <RowDefinition Height="1*"/>
+                                </Grid.RowDefinitions>
+                                <Border Grid.Row="0" CornerRadius="5">
+                                    <Border.Background>
+                                        <LinearGradientBrush >
+
+
+                                            <GradientStop Color="#08FFFFFF" Offset="0"/>
+                                            <GradientStop Color="#88FFFFFF" Offset="1"/>
+                                        </LinearGradientBrush>
+                                    </Border.Background>
+                                </Border>
+                                <ContentPresenter Grid.RowSpan="2" HorizontalAlignment="Center" VerticalAlignment="Center" Name="content"/>
+                            </Grid>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsPressed" Value="True">
+                                <Setter Property="RenderTransform" TargetName="ButtonBorder">
+                                    <Setter.Value>
+                                        <TransformGroup>
+                                            <ScaleTransform ScaleX="0.99" ScaleY="0.99"/>
+                                        </TransformGroup>
+                                    </Setter.Value>
+                                </Setter>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <!--Text-->
+        <Style x:Key="Text" TargetType="TextBlock">
+            <Setter Property="Foreground" Value="Black" />
+            <Setter Property="Background" Value="Transparent" />
+            <Setter Property="FontSize" Value="12" />
+            <Setter Property="FontFamily" Value="Georgia" />
+            <Setter Property="FontWeight" Value="ExtraBold"/>
+        </Style>
+
+
+        <Style x:Key="TextLab" TargetType="Label">
+            <Setter Property="Foreground" Value="Black" />
+            <Setter Property="Background" Value="Transparent" />
+            <Setter Property="FontSize" Value="12" />
+            <Setter Property="FontFamily" Value="Georgia" />
+            <Setter Property="FontWeight" Value="ExtraBold"/>
+        </Style>
+
+        <!--for about-->
+        <Style x:Key="TextAbout" TargetType="TextBlock">
+            <Setter Property="Foreground" Value="Azure" />
+            <Setter Property="FontSize" Value="21" />
+            <Setter Property="FontFamily" Value="Times New Roman" />
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="FontStyle" Value="Italic"/>
+        </Style>
+        <Style x:Key="TextAboutLab" TargetType="Label">
+            <Setter Property="Foreground" Value="Azure" />
+            <Setter Property="FontSize" Value="21" />
+            <Setter Property="FontFamily" Value="Times New Roman" />
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="FontStyle" Value="Italic"/>
+        </Style>
+
+        <Style x:Key="TextAboutHeader" TargetType="Label">
+            <Setter Property="Foreground" Value="Azure" />
+            <Setter Property="FontSize" Value="40" />
+            <Setter Property="FontFamily" Value="Times New Roman" />
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Background" Value="Transparent"/>
+
+        </Style>
+        <Style x:Key="TextAboutHome" TargetType="TextBlock">
+            <Setter Property="Foreground" Value="Gold" />
+            <Setter Property="FontSize" Value="62" />
+            <Setter Property="FontFamily" Value="Georgia" />
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Background" Value="Transparent"/>
+
+        </Style>
+        <Style x:Key="Purple" TargetType="TextBlock">
+            <Setter Property="Foreground" Value="DarkMagenta" />
+            <Setter Property="FontSize" Value="13" />
+            <Setter Property="FontFamily" Value="Georgia" />
+            <Setter Property="FontStyle" Value="Italic"/>
+            <Setter Property="FontWeight" Value="ExtraBold"/>
+            <Setter Property="Background" Value="Transparent"/>
+
+        </Style>
+
+        <Style x:Key="Blue" TargetType="TextBlock">
+            <Setter Property="Foreground" Value="LightBlue" />
+            <Setter Property="FontSize" Value="16" />
+            <Setter Property="FontFamily" Value="Arial Rounded MT" />
+            <Setter Property="FontWeight" Value="ExtraBold"/>
+            <Setter Property="Background" Value="Transparent"/>
+
+        </Style>
+        <Style x:Key="theseTexts" TargetType="Label">
+            <Setter Property="Foreground" Value="Azure" />
+            <Setter Property="FontSize" Value="12" />
+            <Setter Property="FontFamily" Value="Segoe UI" />
+            <Setter Property="Background" Value="Transparent"/>
+
+        </Style>
+
+
+
+    </Application.Resources>
+</Application>
