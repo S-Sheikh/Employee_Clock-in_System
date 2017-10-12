@@ -76,7 +76,7 @@
 
 
 
-        <Image Height="700" Width="1200" HorizontalAlignment="Left" Source="eggs.jpg" Name="image1" Stretch="Fill" VerticalAlignment="Center"/>
+        <Image Height="700" Width="1200" HorizontalAlignment="Left" Source="bg.jpg" Name="image1" Stretch="Fill" VerticalAlignment="Center"/>
         <Frame:PageTransition Height="500" HorizontalAlignment="Left" Margin="204,78,0,0" Name="frame1" VerticalAlignment="Top" Width="800" />
 
         <Button  Click="infoSlips_btn" Content="Info Slips" Margin="12,0,1006,444" VerticalAlignment="Bottom" Height="26" Width="160" Style="{StaticResource GlassButtonStyle}"></Button>
