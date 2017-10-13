@@ -12,12 +12,15 @@
             <TextBlock.Effect>
                 <DropShadowEffect BlurRadius="6" Color="#FF797979" Direction="201" Opacity="0.68" ShadowDepth="3" />
             </TextBlock.Effect></TextBlock>
-        <Image Height="150"  HorizontalAlignment="Left" Margin="189,133,0,0" Name="frameHolder" Stretch="Fill" VerticalAlignment="Top" Width="150" Source="qr.png" />
+        <Image Height="148"  HorizontalAlignment="Left" Margin="189,152,0,0" Name="frameHolder" Stretch="Fill" VerticalAlignment="Top" Width="150" Source="qr.png" />
         <TextBlock Height="38" FontSize="16" TextWrapping="WrapWithOverflow" HorizontalAlignment="Left" Margin="151,65,0,0" Name="textBlock3" Text="or Scan Employee Card using QR Reader" VerticalAlignment="Top" Width="277"  Style="{StaticResource Text}">
             <TextBlock.Effect>
                 <DropShadowEffect BlurRadius="6" Color="#FF797979" Direction="201" Opacity="0.68" ShadowDepth="3" />
             </TextBlock.Effect></TextBlock>
-        <Label Content="Click on scan to Clock In :"  FontSize="16" Height="32" HorizontalAlignment="Left" Margin="176,102,0,0" Name="label1" VerticalAlignment="Top" Width="170" Style="{StaticResource TextLab}" Foreground="CadetBlue"  >
+        <Label   FontSize="16" Height="50" HorizontalAlignment="Left" Margin="176,102,0,0" Name="label1" VerticalAlignment="Top" Width="160" Style="{StaticResource TextLab}" Foreground="CadetBlue"  >
+            <TextBlock TextWrapping="WrapWithOverflow">
+             Click on scan to Clock In :
+            </TextBlock>
             <Label.Resources>
                 <Style TargetType="TextBlock">
                     <Setter Property="TextWrapping" Value="Wrap" />
@@ -27,12 +30,12 @@
                 <DropShadowEffect BlurRadius="6" Color="#FF797979" Direction="201" Opacity="0.68" ShadowDepth="3" />
             </Label.Effect>
         </Label>
-                <Button Content="Clock In" Height="22" HorizontalAlignment="Left" Margin="397,22,0,0" Name="OKNum" VerticalAlignment="Top" Width="102" Click="ClockedIn_onClick" Style="{StaticResource GlassButtonStyle}" />
-        <Button Content="Clock Out" Height="24" HorizontalAlignment="Left" Margin="397,379,0,0" Name="Logout" VerticalAlignment="Top" Width="102" Click="ClockedOut_onClick" Style="{StaticResource GlassButtonStyle}" />
+        <Button Content="Clock In" Height="22" HorizontalAlignment="Left" Margin="397,22,0,0" Name="OKNum" VerticalAlignment="Top" Width="102" Click="ClockedIn_onClick" Style="{StaticResource GlassButtonStyle}" />
+        <Button Content="Clock Out" Height="22" HorizontalAlignment="Left" Margin="397,381,0,0" Name="Logout" VerticalAlignment="Top" Width="102" Click="ClockedOut_onClick" Style="{StaticResource GlassButtonStyle}" />
         <ComboBox HorizontalAlignment="Left" Margin="727,43,0,435" Name="comboBox1" Width="200" />
         <TextBlock Height="11" HorizontalAlignment="Left" Margin="521,534,0,0" Name="textBlock1" Text="" VerticalAlignment="Top" Width="170" />
-        <Button Content="Scan" Height="31" HorizontalAlignment="Left" Margin="220,289,0,0" Name="button2" VerticalAlignment="Top" Width="92" Click="OnStartCamera" Style="{StaticResource GlassButtonStyle}" />
-        <Button Content="Stop Scan Before Close" Height="31" HorizontalAlignment="Left" Margin="191,322,0,0" Name="button1" VerticalAlignment="Top" Width="155" Click="button1_Click" Style="{StaticResource GlassButtonStyle}" />
+        <Button Content="Scan" Height="34" HorizontalAlignment="Left" Margin="220,305,0,0" Name="button2" VerticalAlignment="Top" Width="92" Click="OnStartCamera" Style="{StaticResource GlassButtonStyle}" />
+        <Button Content="Stop Scan Before Close" Height="31" HorizontalAlignment="Left" Margin="191,344,0,0" Name="button1" VerticalAlignment="Top" Width="155" Click="button1_Click" Style="{StaticResource GlassButtonStyle}" />
         <TextBlock Height="150" HorizontalAlignment="Left" Margin="369,133,0,0" Name="txtresult" VerticalAlignment="Top" Width="181" TextWrapping="WrapWithOverflow" />
         <TextBox Height="22" HorizontalAlignment="Left" Margin="204,381,0,0" Name="txtClockOut" VerticalAlignment="Top" Width="187" />
         <TextBlock Height="44" FontSize="16" HorizontalAlignment="Left" Margin="7,375,0,0" Name="textBlock4" Text="Enter Employee Number To Clock Out : " VerticalAlignment="Top" Width="189" TextWrapping="WrapWithOverflow" TextAlignment="Center" Style="{StaticResource Text}">

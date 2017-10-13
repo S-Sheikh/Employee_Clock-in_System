@@ -49,6 +49,9 @@
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>
     </Window.Resources>
+    <Controls:MetroWindow.WindowButtonCommands>
+        <Controls:WindowButtonCommands/>
+    </Controls:MetroWindow.WindowButtonCommands>
 
 
     <Grid>

@@ -18,18 +18,14 @@ namespace QRandClockIn
     /// <summary>
     /// Interaction logic for HomePageWindow.xaml
     /// </summary>
-    public partial class HomePageWindow : MahApps.Metro.Controls.MetroWindow
+    public partial class HomePageWindow : MetroWindow
     {
         //string searchOneWord;
         public HomePageWindow()
-        {
-          
-            InitializeComponent();
-
-          
+        {          
+            InitializeComponent();        
         }
     
-
        private void infoSlips_btn(object sender, RoutedEventArgs e)
        {
            Hours hours = new Hours();
@@ -42,8 +38,6 @@ namespace QRandClockIn
            AddEmp addemp = new AddEmp();
 
            frame1.ShowPage(addemp);
-       }
-
-   
+       }   
     }
 }
