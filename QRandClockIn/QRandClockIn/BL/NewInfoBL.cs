@@ -8,14 +8,12 @@ namespace QRandClockIn.BL
 {
     public class NewInfoBL
     {
-
         private NewInfoProviderBase providerBase;
 
         public NewInfoBL(string Provider)
         {
             _SetupProviderBase(Provider);
-        }
-   
+        }  
         //about the employers and emps
         public List<Employers> selectAllClerkInfo()
         {
@@ -42,20 +40,12 @@ namespace QRandClockIn.BL
         {
             return providerBase.Delete2(member2);
         }
-
-
-
-
-
         private void _SetupProviderBase(string Provider)
         {
             if (Provider == "DataBase")
             {
                 providerBase = new DataBase();
-
             }
         }
-
-
     }
 }

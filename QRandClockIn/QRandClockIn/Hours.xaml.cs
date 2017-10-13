@@ -14,6 +14,7 @@ using System.Windows.Shapes;
 using System.Text.RegularExpressions;
 using QRandClockIn.BL;
 using System.IO;
+using MahApps.Metro.Controls;
 
 namespace QRandClockIn
 {

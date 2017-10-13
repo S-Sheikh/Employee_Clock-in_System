@@ -15,6 +15,8 @@ using System.Threading;
 using System.Windows.Threading;
 using System.Windows.Media.Animation;
 using WpfPageTransitions;
+using MahApps.Metro.Controls;
+
 
 namespace QRandClockIn
 {
