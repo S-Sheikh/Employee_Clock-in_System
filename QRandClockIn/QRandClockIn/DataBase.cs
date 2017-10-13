@@ -32,7 +32,7 @@ namespace QRandClockIn
 
                 command = connection.CreateCommand();
 
-                command.CommandText = "select * from employers_Credentials";
+                command.CommandText = "select * from clerk_Credentials";
 
                 dataRead = command.ExecuteReader();
 

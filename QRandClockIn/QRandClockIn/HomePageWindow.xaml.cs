@@ -12,14 +12,15 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 using System.Windows.Media.Animation;
+using MahApps.Metro.Controls;
 
 namespace QRandClockIn
 {
     /// <summary>
     /// Interaction logic for HomePageWindow.xaml
     /// </summary>
-    public partial class HomePageWindow : Window
-    {
+    public partial class HomePageWindow : MetroWindow
+    { 
         //string searchOneWord;
         public HomePageWindow()
         {
