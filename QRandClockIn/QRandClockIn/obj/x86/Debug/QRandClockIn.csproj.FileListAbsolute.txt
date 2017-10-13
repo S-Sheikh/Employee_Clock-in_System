@@ -1,159 +1,11 @@
-C:\Users\Rethabile Molotsane\Documents\Visual Studio 2010\Projects\QRandClockIn\QRandClockIn\obj\x86\Debug\MainWindow.baml
-C:\Users\Rethabile Molotsane\Documents\Visual Studio 2010\Projects\QRandClockIn\QRandClockIn\obj\x86\Debug\Style Dictionary\Resource Style Dictionary.baml
-C:\Users\Rethabile Molotsane\Documents\Visual Studio 2010\Projects\QRandClockIn\QRandClockIn\obj\x86\Debug\Style Dictionary\ResourceDictionary.baml
-C:\Users\Rethabile Molotsane\Documents\Visual Studio 2010\Projects\QRandClockIn\QRandClockIn\obj\x86\Debug\MainWindow.g.cs
-C:\Users\Rethabile Molotsane\Documents\Visual Studio 2010\Projects\QRandClockIn\QRandClockIn\obj\x86\Debug\App.g.cs
-C:\Users\Rethabile Molotsane\Documents\Visual Studio 2010\Projects\QRandClockIn\QRandClockIn\obj\x86\Debug\QRandClockIn_MarkupCompile.cache
-C:\Users\Rethabile Molotsane\Documents\Visual Studio 2010\Projects\QRandClockIn\QRandClockIn\obj\x86\Debug\QRandClockIn.g.resources
-C:\Users\Rethabile Molotsane\Documents\Visual Studio 2010\Projects\QRandClockIn\QRandClockIn\obj\x86\Debug\QRandClockIn.Properties.Resources.resources
-C:\Users\Rethabile Molotsane\Documents\Visual Studio 2010\Projects\QRandClockIn\QRandClockIn\obj\x86\Debug\QRandClockIn.csproj.GenerateResource.Cache
-C:\Users\Rethabile Molotsane\Documents\Visual Studio 2010\Projects\QRandClockIn\QRandClockIn\bin\Debug\QRandClockIn.exe
-C:\Users\Rethabile Molotsane\Documents\Visual Studio 2010\Projects\QRandClockIn\QRandClockIn\bin\Debug\QRandClockIn.pdb
-C:\Users\Rethabile Molotsane\Documents\Visual Studio 2010\Projects\QRandClockIn\QRandClockIn\bin\Debug\WpfPageTransitions.dll
-C:\Users\Rethabile Molotsane\Documents\Visual Studio 2010\Projects\QRandClockIn\QRandClockIn\obj\x86\Debug\QRandClockIn.exe
-C:\Users\Rethabile Molotsane\Documents\Visual Studio 2010\Projects\QRandClockIn\QRandClockIn\obj\x86\Debug\QRandClockIn.pdb
-C:\Users\Rethabile Molotsane\Documents\Visual Studio 2010\Projects\QRandClockIn\QRandClockIn\obj\x86\Debug\App.baml
-C:\Users\Rethabile Molotsane\Documents\Visual Studio 2010\Projects\QRandClockIn\QRandClockIn\obj\x86\Debug\LogInPage.baml
-C:\Users\Rethabile Molotsane\Documents\Visual Studio 2010\Projects\QRandClockIn\QRandClockIn\obj\x86\Debug\LogInPage.g.cs
-C:\Users\Rethabile Molotsane\Documents\Visual Studio 2010\Projects\QRandClockIn\QRandClockIn\obj\x86\Debug\HomePageWindow.baml
-C:\Users\Rethabile Molotsane\Documents\Visual Studio 2010\Projects\QRandClockIn\QRandClockIn\obj\x86\Debug\HomeScreen.baml
-C:\Users\Rethabile Molotsane\Documents\Visual Studio 2010\Projects\QRandClockIn\QRandClockIn\obj\x86\Debug\Hours.baml
-C:\Users\Rethabile Molotsane\Documents\Visual Studio 2010\Projects\QRandClockIn\QRandClockIn\obj\x86\Debug\HomePageWindow.g.cs
-C:\Users\Rethabile Molotsane\Documents\Visual Studio 2010\Projects\QRandClockIn\QRandClockIn\obj\x86\Debug\HomeScreen.g.cs
-C:\Users\Rethabile Molotsane\Documents\Visual Studio 2010\Projects\QRandClockIn\QRandClockIn\obj\x86\Debug\Hours.g.cs
-C:\Users\Rethabile Molotsane\Documents\Visual Studio 2010\Projects\QRandClockIn\QRandClockIn\bin\Debug\AForge.Controls.dll
-C:\Users\Rethabile Molotsane\Documents\Visual Studio 2010\Projects\QRandClockIn\QRandClockIn\bin\Debug\AForge.dll
-C:\Users\Rethabile Molotsane\Documents\Visual Studio 2010\Projects\QRandClockIn\QRandClockIn\bin\Debug\AForge.Imaging.dll
-C:\Users\Rethabile Molotsane\Documents\Visual Studio 2010\Projects\QRandClockIn\QRandClockIn\bin\Debug\AForge.Imaging.Formats.dll
-C:\Users\Rethabile Molotsane\Documents\Visual Studio 2010\Projects\QRandClockIn\QRandClockIn\bin\Debug\AForge.Imaging.IPPrototyper.dll
-C:\Users\Rethabile Molotsane\Documents\Visual Studio 2010\Projects\QRandClockIn\QRandClockIn\bin\Debug\AForge.Math.dll
-C:\Users\Rethabile Molotsane\Documents\Visual Studio 2010\Projects\QRandClockIn\QRandClockIn\bin\Debug\AForge.Video.DirectShow.dll
-C:\Users\Rethabile Molotsane\Documents\Visual Studio 2010\Projects\QRandClockIn\QRandClockIn\bin\Debug\AForge.Video.dll
-C:\Users\Rethabile Molotsane\Documents\Visual Studio 2010\Projects\QRandClockIn\QRandClockIn\bin\Debug\AForge.Vision.dll
-C:\Users\Rethabile Molotsane\Documents\Visual Studio 2010\Projects\QRandClockIn\QRandClockIn\bin\Debug\GSMCommServer.dll
-C:\Users\Rethabile Molotsane\Documents\Visual Studio 2010\Projects\QRandClockIn\QRandClockIn\bin\Debug\GSMCommShared.dll
-C:\Users\Rethabile Molotsane\Documents\Visual Studio 2010\Projects\QRandClockIn\QRandClockIn\bin\Debug\GSMCommunication.dll
-C:\Users\Rethabile Molotsane\Documents\Visual Studio 2010\Projects\QRandClockIn\QRandClockIn\bin\Debug\Microsoft.Expression.Interactions.dll
-C:\Users\Rethabile Molotsane\Documents\Visual Studio 2010\Projects\QRandClockIn\QRandClockIn\bin\Debug\MySql.Data.dll
-C:\Users\Rethabile Molotsane\Documents\Visual Studio 2010\Projects\QRandClockIn\QRandClockIn\bin\Debug\MySql.Data.Entity.dll
-C:\Users\Rethabile Molotsane\Documents\Visual Studio 2010\Projects\QRandClockIn\QRandClockIn\bin\Debug\PDUConverter.dll
-C:\Users\Rethabile Molotsane\Documents\Visual Studio 2010\Projects\QRandClockIn\QRandClockIn\bin\Debug\System.Data.SQLite.dll
-C:\Users\Rethabile Molotsane\Documents\Visual Studio 2010\Projects\QRandClockIn\QRandClockIn\bin\Debug\System.Data.SQLite.Linq.dll
-C:\Users\Rethabile Molotsane\Documents\Visual Studio 2010\Projects\QRandClockIn\QRandClockIn\bin\Debug\System.Windows.Interactivity.dll
-C:\Users\Rethabile Molotsane\Documents\Visual Studio 2010\Projects\QRandClockIn\QRandClockIn\bin\Debug\WebCam_Capture.dll
-C:\Users\Rethabile Molotsane\Documents\Visual Studio 2010\Projects\QRandClockIn\QRandClockIn\bin\Debug\zxing.dll
-C:\Users\Rethabile Molotsane\Documents\Visual Studio 2010\Projects\QRandClockIn\QRandClockIn\obj\x86\Debug\AddEmp.baml
-C:\Users\Rethabile Molotsane\Documents\Visual Studio 2010\Projects\QRandClockIn\QRandClockIn\obj\x86\Debug\AddEmp.g.cs
-C:\Users\Rethabile Molotsane\Documents\Visual Studio 2010\Projects\QRandClockIn\QRandClockIn\obj\x86\Debug\QRandClockIn.csprojResolveAssemblyReference.cache
-C:\Users\Rethabile Molotsane\Documents\Visual Studio 2010\Projects\QRandClockIn\QRandClockIn\obj\x86\Debug\ClockingSystem.baml
-C:\Users\Rethabile Molotsane\Documents\Visual Studio 2010\Projects\QRandClockIn\QRandClockIn\obj\x86\Debug\ClockingSystem.g.cs
-C:\Users\Vevan\Documents\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\QRandClockIn.exe
-C:\Users\Vevan\Documents\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\QRandClockIn.pdb
-C:\Users\Vevan\Documents\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\Microsoft.Expression.Interactions.dll
-C:\Users\Vevan\Documents\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\System.Windows.Interactivity.dll
-C:\Users\Vevan\Documents\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\Microsoft.Expression.Interactions.xml
-C:\Users\Vevan\Documents\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\System.Windows.Interactivity.xml
-C:\Users\Vevan\Documents\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
-C:\Users\Vevan\Documents\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
-C:\Users\Vevan\Documents\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
-C:\Users\Vevan\Documents\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
-C:\Users\Vevan\Documents\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
-C:\Users\Vevan\Documents\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
-C:\Users\Vevan\Documents\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
-C:\Users\Vevan\Documents\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
-C:\Users\Vevan\Documents\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
-C:\Users\Vevan\Documents\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\de\System.Windows.Interactivity.resources.dll
-C:\Users\Vevan\Documents\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\en\System.Windows.Interactivity.resources.dll
-C:\Users\Vevan\Documents\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\es\System.Windows.Interactivity.resources.dll
-C:\Users\Vevan\Documents\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\fr\System.Windows.Interactivity.resources.dll
-C:\Users\Vevan\Documents\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\it\System.Windows.Interactivity.resources.dll
-C:\Users\Vevan\Documents\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\ja\System.Windows.Interactivity.resources.dll
-C:\Users\Vevan\Documents\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\ko\System.Windows.Interactivity.resources.dll
-C:\Users\Vevan\Documents\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
-C:\Users\Vevan\Documents\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
-C:\Users\Vevan\Documents\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\QRandClockIn.csprojResolveAssemblyReference.cache
-C:\Users\Vevan\Documents\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\AddEmp.baml
-C:\Users\Vevan\Documents\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\ClockingSystem.baml
-C:\Users\Vevan\Documents\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\HomePageWindow.baml
-C:\Users\Vevan\Documents\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\HomeScreen.baml
-C:\Users\Vevan\Documents\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\Hours.baml
-C:\Users\Vevan\Documents\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\LogInPage.baml
-C:\Users\Vevan\Documents\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\MainWindow.baml
-C:\Users\Vevan\Documents\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\Style Dictionary\Resource Style Dictionary.baml
-C:\Users\Vevan\Documents\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\Style Dictionary\ResourceDictionary.baml
-C:\Users\Vevan\Documents\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\App.baml
-C:\Users\Vevan\Documents\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\AddEmp.g.cs
-C:\Users\Vevan\Documents\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\ClockingSystem.g.cs
-C:\Users\Vevan\Documents\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\HomePageWindow.g.cs
-C:\Users\Vevan\Documents\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\HomeScreen.g.cs
-C:\Users\Vevan\Documents\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\Hours.g.cs
-C:\Users\Vevan\Documents\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\LogInPage.g.cs
-C:\Users\Vevan\Documents\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\MainWindow.g.cs
-C:\Users\Vevan\Documents\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\App.g.cs
-C:\Users\Vevan\Documents\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\QRandClockIn_MarkupCompile.cache
-C:\Users\Vevan\Documents\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\QRandClockIn.g.resources
-C:\Users\Vevan\Documents\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\QRandClockIn.Properties.Resources.resources
-C:\Users\Vevan\Documents\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\QRandClockIn.csproj.GenerateResource.Cache
-C:\Users\Vevan\Documents\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\QRandClockIn.exe
-C:\Users\Vevan\Documents\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\QRandClockIn.pdb
-D:\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\QRandClockIn.exe
-D:\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\QRandClockIn.pdb
-D:\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\Microsoft.Expression.Interactions.dll
-D:\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\System.Windows.Interactivity.dll
-D:\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\Microsoft.Expression.Interactions.xml
-D:\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\System.Windows.Interactivity.xml
-D:\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
-D:\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
-D:\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
-D:\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
-D:\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
-D:\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
-D:\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
-D:\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
-D:\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
-D:\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\de\System.Windows.Interactivity.resources.dll
-D:\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\en\System.Windows.Interactivity.resources.dll
-D:\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\es\System.Windows.Interactivity.resources.dll
-D:\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\fr\System.Windows.Interactivity.resources.dll
-D:\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\it\System.Windows.Interactivity.resources.dll
-D:\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\ja\System.Windows.Interactivity.resources.dll
-D:\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\ko\System.Windows.Interactivity.resources.dll
-D:\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
-D:\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
-D:\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\QRandClockIn.csprojResolveAssemblyReference.cache
-D:\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\AddEmp.baml
-D:\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\ClockingSystem.baml
-D:\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\HomePageWindow.baml
-D:\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\HomeScreen.baml
-D:\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\Hours.baml
-D:\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\LogInPage.baml
-D:\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\MainWindow.baml
-D:\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\Style Dictionary\Resource Style Dictionary.baml
-D:\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\Style Dictionary\ResourceDictionary.baml
-D:\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\App.baml
-D:\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\AddEmp.g.cs
-D:\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\ClockingSystem.g.cs
-D:\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\HomePageWindow.g.cs
-D:\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\HomeScreen.g.cs
-D:\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\Hours.g.cs
-D:\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\LogInPage.g.cs
-D:\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\MainWindow.g.cs
-D:\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\App.g.cs
-D:\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\QRandClockIn_MarkupCompile.cache
-D:\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\QRandClockIn.g.resources
-D:\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\QRandClockIn.Properties.Resources.resources
-D:\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\QRandClockIn.csproj.GenerateResource.Cache
-D:\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\QRandClockIn.exe
-D:\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\QRandClockIn.pdb
-<<<<<<< HEAD
-C:\Users\Shahbaaz Sheikh\Documents\Visual Studio 2015\Projects\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\QRandClockIn.exe
-C:\Users\Shahbaaz Sheikh\Documents\Visual Studio 2015\Projects\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\QRandClockIn.pdb
 C:\Users\Shahbaaz Sheikh\Documents\Visual Studio 2015\Projects\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\QRandClockIn.exe
 C:\Users\Shahbaaz Sheikh\Documents\Visual Studio 2015\Projects\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\QRandClockIn.pdb
+C:\Users\Shahbaaz Sheikh\Documents\Visual Studio 2015\Projects\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\MahApps.Metro.dll
 C:\Users\Shahbaaz Sheikh\Documents\Visual Studio 2015\Projects\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\Microsoft.Expression.Interactions.dll
 C:\Users\Shahbaaz Sheikh\Documents\Visual Studio 2015\Projects\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Shahbaaz Sheikh\Documents\Visual Studio 2015\Projects\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\MahApps.Metro.pdb
+C:\Users\Shahbaaz Sheikh\Documents\Visual Studio 2015\Projects\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\MahApps.Metro.xml
 C:\Users\Shahbaaz Sheikh\Documents\Visual Studio 2015\Projects\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\Microsoft.Expression.Interactions.xml
-C:\Users\Shahbaaz Sheikh\Documents\Visual Studio 2015\Projects\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\System.Windows.Interactivity.xml
 C:\Users\Shahbaaz Sheikh\Documents\Visual Studio 2015\Projects\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
 C:\Users\Shahbaaz Sheikh\Documents\Visual Studio 2015\Projects\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
 C:\Users\Shahbaaz Sheikh\Documents\Visual Studio 2015\Projects\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
@@ -163,16 +15,6 @@ C:\Users\Shahbaaz Sheikh\Documents\Visual Studio 2015\Projects\PIO_Retha\QRandCl
 C:\Users\Shahbaaz Sheikh\Documents\Visual Studio 2015\Projects\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
 C:\Users\Shahbaaz Sheikh\Documents\Visual Studio 2015\Projects\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
 C:\Users\Shahbaaz Sheikh\Documents\Visual Studio 2015\Projects\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
-C:\Users\Shahbaaz Sheikh\Documents\Visual Studio 2015\Projects\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\de\System.Windows.Interactivity.resources.dll
-C:\Users\Shahbaaz Sheikh\Documents\Visual Studio 2015\Projects\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\en\System.Windows.Interactivity.resources.dll
-C:\Users\Shahbaaz Sheikh\Documents\Visual Studio 2015\Projects\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\es\System.Windows.Interactivity.resources.dll
-C:\Users\Shahbaaz Sheikh\Documents\Visual Studio 2015\Projects\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\fr\System.Windows.Interactivity.resources.dll
-C:\Users\Shahbaaz Sheikh\Documents\Visual Studio 2015\Projects\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\it\System.Windows.Interactivity.resources.dll
-C:\Users\Shahbaaz Sheikh\Documents\Visual Studio 2015\Projects\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\ja\System.Windows.Interactivity.resources.dll
-C:\Users\Shahbaaz Sheikh\Documents\Visual Studio 2015\Projects\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\ko\System.Windows.Interactivity.resources.dll
-C:\Users\Shahbaaz Sheikh\Documents\Visual Studio 2015\Projects\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
-C:\Users\Shahbaaz Sheikh\Documents\Visual Studio 2015\Projects\PIO_Retha\QRandClockIn\QRandClockIn\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
-C:\Users\Shahbaaz Sheikh\Documents\Visual Studio 2015\Projects\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\QRandClockIn.csprojResolveAssemblyReference.cache
 C:\Users\Shahbaaz Sheikh\Documents\Visual Studio 2015\Projects\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\AddEmp.baml
 C:\Users\Shahbaaz Sheikh\Documents\Visual Studio 2015\Projects\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\ClockingSystem.baml
 C:\Users\Shahbaaz Sheikh\Documents\Visual Studio 2015\Projects\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\HomePageWindow.baml
@@ -195,47 +37,5 @@ C:\Users\Shahbaaz Sheikh\Documents\Visual Studio 2015\Projects\PIO_Retha\QRandCl
 C:\Users\Shahbaaz Sheikh\Documents\Visual Studio 2015\Projects\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\QRandClockIn.g.resources
 C:\Users\Shahbaaz Sheikh\Documents\Visual Studio 2015\Projects\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\QRandClockIn.Properties.Resources.resources
 C:\Users\Shahbaaz Sheikh\Documents\Visual Studio 2015\Projects\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\QRandClockIn.csproj.GenerateResource.Cache
-=======
-C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\bin\Debug\QRandClockIn.exe
-C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\bin\Debug\QRandClockIn.pdb
-C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\bin\Debug\Microsoft.Expression.Interactions.dll
-C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\bin\Debug\System.Windows.Interactivity.dll
-C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\bin\Debug\Microsoft.Expression.Interactions.xml
-C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
-C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
-C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
-C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
-C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
-C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
-C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
-C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
-C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
-C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\obj\x86\Debug\QRandClockIn.csprojResolveAssemblyReference.cache
-C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\obj\x86\Debug\AddEmp.baml
-C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\obj\x86\Debug\ClockingSystem.baml
-C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\obj\x86\Debug\HomePageWindow.baml
-C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\obj\x86\Debug\HomeScreen.baml
-C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\obj\x86\Debug\Hours.baml
-C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\obj\x86\Debug\LogInPage.baml
-C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\obj\x86\Debug\MainWindow.baml
-C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\obj\x86\Debug\Style Dictionary\Resource Style Dictionary.baml
-C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\obj\x86\Debug\Style Dictionary\ResourceDictionary.baml
-C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\obj\x86\Debug\App.baml
-C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\obj\x86\Debug\AddEmp.g.cs
-C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\obj\x86\Debug\ClockingSystem.g.cs
-C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\obj\x86\Debug\HomePageWindow.g.cs
-C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\obj\x86\Debug\HomeScreen.g.cs
-C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\obj\x86\Debug\Hours.g.cs
-C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\obj\x86\Debug\LogInPage.g.cs
-C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\obj\x86\Debug\MainWindow.g.cs
-C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\obj\x86\Debug\App.g.cs
-C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\obj\x86\Debug\QRandClockIn_MarkupCompile.cache
-C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\obj\x86\Debug\QRandClockIn.g.resources
-C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\obj\x86\Debug\QRandClockIn.Properties.Resources.resources
-C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\obj\x86\Debug\QRandClockIn.csproj.GenerateResource.Cache
-C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\obj\x86\Debug\QRandClockIn.exe
-C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\obj\x86\Debug\QRandClockIn.pdb
-C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\bin\Debug\MahApps.Metro.dll
-C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\bin\Debug\MahApps.Metro.pdb
-C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\bin\Debug\MahApps.Metro.xml
->>>>>>> 62208753ac4da4f7cd5fc3b6e7dc1a1b3948e69f
+C:\Users\Shahbaaz Sheikh\Documents\Visual Studio 2015\Projects\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\QRandClockIn.exe
+C:\Users\Shahbaaz Sheikh\Documents\Visual Studio 2015\Projects\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\QRandClockIn.pdb
