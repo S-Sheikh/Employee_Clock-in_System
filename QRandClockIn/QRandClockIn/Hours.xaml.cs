@@ -11,8 +11,10 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.Text.RegularExpressions;
 using QRandClockIn.BL;
 using System.IO;
+using MahApps.Metro.Controls;
 
 namespace QRandClockIn
 {
@@ -39,9 +41,9 @@ namespace QRandClockIn
         
 
         //benefits results
-        string convertedIncome;
+        double convertedIncome;
       
-        string convertedMedicalDependents;
+        double convertedMedicalDependents;
        
         
       
@@ -230,8 +232,8 @@ namespace QRandClockIn
             //txtTotalHours.Text = employees[selected].TimeIn;
 
          
-           convertedIncome = employees[selected].Salary;
-           convertedMedicalDependents = employees[selected].MedicalDependents;
+           convertedIncome = Double.Parse(Regex.Replace(employees[selected].Salary, "[^0-9.]", ""));
+           convertedMedicalDependents = Double.Parse(employees[selected].MedicalDependents.Replace("+",""));
 
          
            try

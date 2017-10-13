@@ -1,13 +1,14 @@
-﻿<Window x:Class="QRandClockIn.HomePageWindow"
+﻿<Controls:MetroWindow x:Class="QRandClockIn.HomePageWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:Frame="clr-namespace:WpfPageTransitions;assembly=WpfPageTransitions"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
         Title="PIO42" Height="700" Width="1200" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" ShowInTaskbar="True">
 
 
     <Window.Resources>
 
-        <Storyboard x:Key="sbShowLeftMenu" >
+        <!--<Storyboard x:Key="sbShowLeftMenu" >
             <ThicknessAnimation Storyboard.TargetProperty="Margin" From="-150,0,0,0" To="0,0,0,0" DecelerationRatio=".9" Duration="0:0:1" />
         </Storyboard>
         <Storyboard x:Key="sbHideLeftMenu">
@@ -36,9 +37,21 @@
         </Storyboard>
         <Storyboard x:Key="sbHideBottomMenu">
             <ThicknessAnimation Storyboard.TargetProperty="Margin" From="0,0,0,0" To="0,0,0,-100" AccelerationRatio=".9" Duration="0:0:1" />
-        </Storyboard>
-
+        </Storyboard>-->
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Controls.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Fonts.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Colors.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Accents/Blue.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Accents/BaseLight.xaml" />
+                 
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
     </Window.Resources>
+    <Controls:MetroWindow.WindowButtonCommands>
+        <Controls:WindowButtonCommands/>
+    </Controls:MetroWindow.WindowButtonCommands>
 
 
     <Grid>
@@ -62,10 +75,14 @@
         <Grid.Triggers>
             <EventTrigger RoutedEvent="Canvas.Loaded">
                 <!--<BeginStoryboard>
-                    --><!--<Storyboard>
-                        --><!--<DoubleAnimation From="30" To="360" Duration="0:0:15" AutoReverse="True" RepeatBehavior="Forever" Storyboard.TargetName="rotation4" Storyboard.TargetProperty="Angle" />--><!--
+                    -->
+                <!--<Storyboard>
+                        -->
+                <!--<DoubleAnimation From="30" To="360" Duration="0:0:15" AutoReverse="True" RepeatBehavior="Forever" Storyboard.TargetName="rotation4" Storyboard.TargetProperty="Angle" />-->
+                <!--
 
-                    </Storyboard>--><!--
+                    </Storyboard>-->
+                <!--
                 </BeginStoryboard>-->
 
 
@@ -76,14 +93,18 @@
 
 
 
-        <Image Height="700" Width="1200" HorizontalAlignment="Left" Source="eggs.jpg" Name="image1" Stretch="Fill" VerticalAlignment="Center"/>
+        <Image Height="700" Width="1200" HorizontalAlignment="Left" Source="bg2.jpg" Name="image1" Stretch="Fill" VerticalAlignment="Center"/>
         <Frame:PageTransition Height="500" HorizontalAlignment="Left" Margin="204,78,0,0" Name="frame1" VerticalAlignment="Top" Width="800" />
 
         <Button  Click="infoSlips_btn" Content="Info Slips" Margin="12,0,1006,444" VerticalAlignment="Bottom" Height="26" Width="160" Style="{StaticResource GlassButtonStyle}"></Button>
         <Button Click="QR_btn" Content="QR Generator" Height="26" Margin="12,0,1006,338" Style="{StaticResource GlassButtonStyle}" VerticalAlignment="Bottom" Width="160" />
 
 
-       
-        <Label Content="Software Engineering Project 2017" Height="36" HorizontalAlignment="Left" Margin="449,631,0,0" Foreground="Black" Name="poweredBy" VerticalAlignment="Top" Width="288" FontSize="14" FontWeight="Bold" FontStretch="ExtraExpanded" />
-          </Grid>
-</Window>
+
+        <Label Content="Software Engineering Project 2017" Height="84" HorizontalAlignment="Left" Margin="315,583,0,0" Foreground="Black" Name="poweredBy" VerticalAlignment="Top" Width="531" FontSize="30" FontWeight="Bold" FontStretch="ExtraExpanded" >
+            <Label.Effect>
+                <DropShadowEffect BlurRadius="6"  Color="#FF797979" Direction="201" Opacity="0.68" ShadowDepth="3" />
+            </Label.Effect>
+        </Label>
+    </Grid>
+</Controls:MetroWindow>

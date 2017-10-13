@@ -15,13 +15,15 @@ using System.Threading;
 using System.Windows.Threading;
 using System.Windows.Media.Animation;
 using WpfPageTransitions;
+using MahApps.Metro.Controls;
+
 
 namespace QRandClockIn
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class MainWindow : MetroWindow
     {
 
 
@@ -57,15 +59,14 @@ namespace QRandClockIn
 
            pageTransitionControl.ShowPage(clockingPage);
 
-
+            
 
 
         }
 
         private void closeProgram_Click(object sender, RoutedEventArgs e)
         {
-
-            Application.Current.Shutdown();
+            this.Close();
         }
 
 

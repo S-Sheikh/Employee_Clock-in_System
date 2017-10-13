@@ -45,7 +45,7 @@
                 <ComboBoxItem Content="9" />
                 <ComboBoxItem Content="10" />
                 <ComboBoxItem Content="11" />
-                <ComboBoxItem Content="12" />
+                <ComboBoxItem Content="12+" />
             </ComboBox>
             <TextBox Height="23" HorizontalAlignment="Left" Margin="192,169,0,0" Name="txtEmpNo" VerticalAlignment="Top" Width="173" />
             <TextBox Height="23" HorizontalAlignment="Left" Margin="504,172,0,0" Name="txtDepartment" VerticalAlignment="Top" Width="173" />
@@ -59,7 +59,7 @@
             <TextBox Height="23" HorizontalAlignment="Left" Margin="172,409,0,0" Name="txtProvince" VerticalAlignment="Top" Width="173" />
 
             <TextBox Height="23" HorizontalAlignment="Left" Margin="166,510,0,0" Name="txtBank" VerticalAlignment="Top" Width="173" />
-            <TextBox Height="23" HorizontalAlignment="Left" Margin="478,510,0,0" Name="txtAccountType" VerticalAlignment="Top" Width="173" TextChanged="txtAccountType_TextChanged" />
+            <TextBox Height="23" HorizontalAlignment="Left" Margin="478,510,0,0" Name="txtAccountType" VerticalAlignment="Top" Width="173" />
             <TextBox Height="23" HorizontalAlignment="Left" Margin="166,542,0,0" Name="txtAccountNo" VerticalAlignment="Top" Width="173" />
             <TextBox Height="23" HorizontalAlignment="Left" Margin="478,542,0,0" Name="txtTaxNo" VerticalAlignment="Top" Width="173" />
             <TextBox Height="23" HorizontalAlignment="Left" Margin="166,571,0,0" Name="txtBranch" VerticalAlignment="Top" Width="173" />
