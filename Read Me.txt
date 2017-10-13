@@ -1,0 +1,7 @@
+create folder for database: 
+
+C > Datastores > PIO42 > *place here*
+
+create additional folder for infoslips inside PIO42:
+
+C > Datastores > PIO42 > InfoSlips > *excel spreadsheet will be saved here*
