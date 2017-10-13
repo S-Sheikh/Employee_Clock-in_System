@@ -62,10 +62,14 @@
         <Grid.Triggers>
             <EventTrigger RoutedEvent="Canvas.Loaded">
                 <!--<BeginStoryboard>
-                    --><!--<Storyboard>
-                        --><!--<DoubleAnimation From="30" To="360" Duration="0:0:15" AutoReverse="True" RepeatBehavior="Forever" Storyboard.TargetName="rotation4" Storyboard.TargetProperty="Angle" />--><!--
+                    -->
+                <!--<Storyboard>
+                        -->
+                <!--<DoubleAnimation From="30" To="360" Duration="0:0:15" AutoReverse="True" RepeatBehavior="Forever" Storyboard.TargetName="rotation4" Storyboard.TargetProperty="Angle" />-->
+                <!--
 
-                    </Storyboard>--><!--
+                    </Storyboard>-->
+                <!--
                 </BeginStoryboard>-->
 
 
@@ -76,14 +80,18 @@
 
 
 
-        <Image Height="700" Width="1200" HorizontalAlignment="Left" Source="bg.jpg" Name="image1" Stretch="Fill" VerticalAlignment="Center"/>
+        <Image Height="700" Width="1200" HorizontalAlignment="Left" Source="bg2.jpg" Name="image1" Stretch="Fill" VerticalAlignment="Center"/>
         <Frame:PageTransition Height="500" HorizontalAlignment="Left" Margin="204,78,0,0" Name="frame1" VerticalAlignment="Top" Width="800" />
 
         <Button  Click="infoSlips_btn" Content="Info Slips" Margin="12,0,1006,444" VerticalAlignment="Bottom" Height="26" Width="160" Style="{StaticResource GlassButtonStyle}"></Button>
         <Button Click="QR_btn" Content="QR Generator" Height="26" Margin="12,0,1006,338" Style="{StaticResource GlassButtonStyle}" VerticalAlignment="Bottom" Width="160" />
 
 
-       
-        <Label Content="Software Engineering Project 2017" Height="36" HorizontalAlignment="Left" Margin="449,631,0,0" Foreground="Black" Name="poweredBy" VerticalAlignment="Top" Width="288" FontSize="14" FontWeight="Bold" FontStretch="ExtraExpanded" />
-          </Grid>
+
+        <Label Content="Software Engineering Project 2017" Height="84" HorizontalAlignment="Left" Margin="315,583,0,0" Foreground="Black" Name="poweredBy" VerticalAlignment="Top" Width="531" FontSize="30" FontWeight="Bold" FontStretch="ExtraExpanded" >
+            <Label.Effect>
+                <DropShadowEffect BlurRadius="6"  Color="#FF797979" Direction="201" Opacity="0.68" ShadowDepth="3" />
+            </Label.Effect>
+        </Label>
+    </Grid>
 </Window>
