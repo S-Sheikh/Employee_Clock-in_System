@@ -18,7 +18,7 @@ namespace QRandClockIn
     /// <summary>
     /// Interaction logic for HomePageWindow.xaml
     /// </summary>
-    public partial class HomePageWindow : Window
+    public partial class HomePageWindow : MahApps.Metro.Controls.MetroWindow
     {
         //string searchOneWord;
         public HomePageWindow()

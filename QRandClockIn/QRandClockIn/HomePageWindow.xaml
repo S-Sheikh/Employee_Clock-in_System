@@ -1,13 +1,14 @@
-﻿<Window x:Class="QRandClockIn.HomePageWindow"
+﻿<Controls:MetroWindow x:Class="QRandClockIn.HomePageWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:Frame="clr-namespace:WpfPageTransitions;assembly=WpfPageTransitions"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
         Title="PIO42" Height="700" Width="1200" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" ShowInTaskbar="True">
 
 
     <Window.Resources>
 
-        <Storyboard x:Key="sbShowLeftMenu" >
+        <!--<Storyboard x:Key="sbShowLeftMenu" >
             <ThicknessAnimation Storyboard.TargetProperty="Margin" From="-150,0,0,0" To="0,0,0,0" DecelerationRatio=".9" Duration="0:0:1" />
         </Storyboard>
         <Storyboard x:Key="sbHideLeftMenu">
@@ -36,8 +37,17 @@
         </Storyboard>
         <Storyboard x:Key="sbHideBottomMenu">
             <ThicknessAnimation Storyboard.TargetProperty="Margin" From="0,0,0,0" To="0,0,0,-100" AccelerationRatio=".9" Duration="0:0:1" />
-        </Storyboard>
-
+        </Storyboard>-->
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Controls.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Fonts.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Colors.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Accents/Blue.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Accents/BaseLight.xaml" />
+                 
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
     </Window.Resources>
 
 
@@ -94,4 +104,4 @@
             </Label.Effect>
         </Label>
     </Grid>
-</Window>
+</Controls:MetroWindow>

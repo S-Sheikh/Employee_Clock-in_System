@@ -21,7 +21,6 @@ namespace QRandClockIn
     /// </summary>
     public partial class LogInPage : UserControl
     {
-
         string username, password;
 
         public LogInPage()
@@ -29,8 +28,6 @@ namespace QRandClockIn
             InitializeComponent();
 
         }
-
-
         private void signIn_onClick(object sender, RoutedEventArgs e)
         {
             var HomeScreen = new HomeScreen();
@@ -51,14 +48,8 @@ namespace QRandClockIn
                     MessageBox.Show("Access Approved! Welcome", "Welcome", MessageBoxButton.OK, MessageBoxImage.Asterisk);
                     HomePageWindow hpw = new HomePageWindow();
                     hpw.Show();
-                   
-
-
                 }
-
             }
-
-
         }
     }
 }

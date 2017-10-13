@@ -59,15 +59,14 @@ namespace QRandClockIn
 
            pageTransitionControl.ShowPage(clockingPage);
 
-
+            
 
 
         }
 
         private void closeProgram_Click(object sender, RoutedEventArgs e)
         {
-
-            Application.Current.Shutdown();
+            this.Close();
         }
 
 

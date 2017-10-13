@@ -80,3 +80,4 @@ C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\obj\x86\D
 C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\obj\x86\Debug\QRandClockIn.csproj.GenerateResource.Cache
 C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\obj\x86\Debug\QRandClockIn.exe
 C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\obj\x86\Debug\QRandClockIn.pdb
+C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\obj\x86\Debug\QRandClockIn.csprojResolveAssemblyReference.cache
