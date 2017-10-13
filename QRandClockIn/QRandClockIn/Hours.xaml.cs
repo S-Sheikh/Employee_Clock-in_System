@@ -13,6 +13,7 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using QRandClockIn.BL;
 using System.IO;
+using MahApps.Metro.Controls;
 
 namespace QRandClockIn
 {

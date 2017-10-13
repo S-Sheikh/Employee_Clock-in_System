@@ -150,7 +150,6 @@ C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\bin\Debug
 C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\bin\Debug\Microsoft.Expression.Interactions.dll
 C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\bin\Debug\System.Windows.Interactivity.dll
 C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\bin\Debug\Microsoft.Expression.Interactions.xml
-C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\bin\Debug\System.Windows.Interactivity.xml
 C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
 C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
 C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
@@ -160,15 +159,6 @@ C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\bin\Debug
 C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
 C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
 C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
-C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\bin\Debug\de\System.Windows.Interactivity.resources.dll
-C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\bin\Debug\en\System.Windows.Interactivity.resources.dll
-C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\bin\Debug\es\System.Windows.Interactivity.resources.dll
-C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\bin\Debug\fr\System.Windows.Interactivity.resources.dll
-C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\bin\Debug\it\System.Windows.Interactivity.resources.dll
-C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\bin\Debug\ja\System.Windows.Interactivity.resources.dll
-C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\bin\Debug\ko\System.Windows.Interactivity.resources.dll
-C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
-C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
 C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\obj\x86\Debug\QRandClockIn.csprojResolveAssemblyReference.cache
 C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\obj\x86\Debug\AddEmp.baml
 C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\obj\x86\Debug\ClockingSystem.baml
@@ -194,3 +184,6 @@ C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\obj\x86\D
 C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\obj\x86\Debug\QRandClockIn.csproj.GenerateResource.Cache
 C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\obj\x86\Debug\QRandClockIn.exe
 C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\obj\x86\Debug\QRandClockIn.pdb
+C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\bin\Debug\MahApps.Metro.dll
+C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\bin\Debug\MahApps.Metro.pdb
+C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\bin\Debug\MahApps.Metro.xml

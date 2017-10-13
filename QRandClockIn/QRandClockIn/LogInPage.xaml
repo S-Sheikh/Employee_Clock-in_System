@@ -62,7 +62,10 @@
         <TextBox FontSize="12"  Foreground="Black" HorizontalAlignment="Center" Margin="231,144,58,0"  TextAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Width="211" Height="27" Name="ClerkLoginUserNametxt"/>
         <PasswordBox FontSize="12"  Foreground="Black" Height="27" HorizontalAlignment="Center" Margin="231,177,58,0" VerticalAlignment="Top" Width="211" Name="ClerkLoginPasswordtxt" Visibility="Visible" />
 
-        <Button  Click="signIn_onClick" FontSize="20" Content="Sign In" Margin="231,0,109,230" FontWeight="Bold" VerticalAlignment="Bottom" Height="30" Width="160" Style="{StaticResource GlassButtonStyle}"></Button>
-        <TextBlock FontSize="25" FontWeight="Bold" Foreground="Black" HorizontalAlignment="Left" Margin="128,357,0,0" Text="Software Engineering Project 2017" TextAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Top" Width="263"></TextBlock>
+        <Button  Click="signIn_onClick" FontSize="20" Content="Sign In" Margin="158,0,182,206" FontWeight="Bold" VerticalAlignment="Bottom" Height="30" Width="160" Style="{StaticResource GlassButtonStyle}"></Button>
+        <TextBlock FontSize="25" FontWeight="Bold" Foreground="Black" HorizontalAlignment="Left" Margin="128,357,0,0" Text="Software Engineering Project 2017" TextAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Top" Width="263" Style="{StaticResource Text}">
+            <TextBlock.Effect>
+                <DropShadowEffect BlurRadius="6" Color="#FF797979" Direction="201" Opacity="0.68" ShadowDepth="3" />
+            </TextBlock.Effect></TextBlock>
     </Grid>
 </UserControl>
