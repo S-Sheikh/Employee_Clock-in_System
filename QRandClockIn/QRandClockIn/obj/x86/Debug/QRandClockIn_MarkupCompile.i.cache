@@ -4,16 +4,28 @@
 winexe
 C#
 .cs
+<<<<<<< HEAD
+C:\Users\Shahbaaz Sheikh\Documents\Visual Studio 2015\Projects\PIO_Retha\QRandClockIn\QRandClockIn\obj\x86\Debug\
+=======
 C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\obj\x86\Debug\
+>>>>>>> 62208753ac4da4f7cd5fc3b6e7dc1a1b3948e69f
 QRandClockIn
 none
 false
 DEBUG;TRACE
+<<<<<<< HEAD
+C:\Users\Shahbaaz Sheikh\Documents\Visual Studio 2015\Projects\PIO_Retha\QRandClockIn\QRandClockIn\App.xaml
+9-1155067588
+
+21-115224713
+351532696611
+=======
 C:\Users\Vevan\Documents\GitHub\qrandclockin\QRandClockIn\QRandClockIn\App.xaml
 9-1155067588
 
 21-663482633
 36-1488263261
+>>>>>>> 62208753ac4da4f7cd5fc3b6e7dc1a1b3948e69f
 AddEmp.xaml;ClockingSystem.xaml;HomePageWindow.xaml;HomeScreen.xaml;Hours.xaml;LogInPage.xaml;MainWindow.xaml;Style Dictionary\Resource Style Dictionary.xaml;Style Dictionary\ResourceDictionary.xaml;
 
 False
