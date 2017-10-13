@@ -11,6 +11,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.Text.RegularExpressions;
 using QRandClockIn.BL;
 using System.IO;
 
@@ -230,8 +231,8 @@ namespace QRandClockIn
             //txtTotalHours.Text = employees[selected].TimeIn;
 
          
-           convertedIncome = Double.Parse(employees[selected].Salary);
-           convertedMedicalDependents = Double.Parse(employees[selected].MedicalDependents);
+           convertedIncome = Double.Parse(Regex.Replace(employees[selected].Salary, "[^0-9.]", ""));
+           convertedMedicalDependents = Double.Parse(employees[selected].MedicalDependents.Replace("+",""));
 
          
            try
